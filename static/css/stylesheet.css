@@ -1,0 +1,13 @@
+._dash-undo-redo {
+  display: none;
+}
+
+.main-graph {
+    height: 500px;
+}
+
+.session-info {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
